@@ -13,13 +13,13 @@
  
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/user-name/repo-name/',
+	'https://github.com/Paradxil/jetpack-form-captcha',
 	__FILE__,
-	'unique-plugin-or-theme-slug'
+	'jetpack-form-captcha'
 );
 
 //Set the branch that contains the stable release.
-$myUpdateChecker->setBranch('stable-branch-name');
+$myUpdateChecker->setBranch('main');
 
 /**
  * Detect plugin. For use on Front End only.
