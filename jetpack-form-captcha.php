@@ -3,11 +3,11 @@
  * Plugin Name: Icon Captcha for Jetpack
  * Plugin URI: 
  * Description: Adds a captcha to jetpack forms
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Hunter Stratton
  * Author URI: https://hunterstratton.com
  * Text Domain: jetpack-form-captcha
- * License: GPLv3
+ * License: MIT
  * 
  */
  
